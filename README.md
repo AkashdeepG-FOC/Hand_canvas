@@ -13,12 +13,7 @@ A virtual canvas that lets you draw on your screen using hand gestures detected 
 
 ---
 
-## Demo
 
-![Demo GIF](demo.gif)
-*Add your demo GIF or screenshot here!*
-
----
 
 ## Installation
 
