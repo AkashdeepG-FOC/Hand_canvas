@@ -19,7 +19,7 @@ A virtual canvas that lets you draw on your screen using hand gestures detected 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Hand_canvas.git
+   git clone https://github.com/AkashdeepG-FOC/Hand_canvas.git
    cd Hand_canvas
    ```
 2. **Install dependencies:**
